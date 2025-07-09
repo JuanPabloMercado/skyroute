@@ -66,10 +66,10 @@ pip install -r requirements.txt
 
 ## Ejecución
 
-1. Asegurate de tener el servidor MySQL activo.
-2. Ejecutá el script `estructura_tablas.sql` dentro de tu gestor SQL para crear las tablas.
-3. Ajustá los datos de conexión en `config.py` si es necesario.
-4. Iniciá el programa con:
+1. Tener el servidor MySQL activo.
+2. Ejecutar el script `estructura_tablas.sql` dentro de tu gestor SQL para crear las tablas.
+3. Ajustar los datos de conexión en `config.py` si es necesario.
+4. Iniciar el programa con:
 
 ```bash
 python main.py
@@ -92,7 +92,7 @@ El diseño contempla integridad referencial, claves foráneas y normalización h
 
 ---
 
-## 🧪 Casos de uso simples
+## Casos de uso simples
 
 ### ✔ Registrar un cliente
 - El sistema solicita nombre, apellido, DNI, email, dirección y teléfono.
