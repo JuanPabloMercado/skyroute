@@ -45,7 +45,6 @@ skyroute/
 │
 ├── diagrams/
 │   ├── flujo_general.png
-│   └── flujo_clientes.png
 │
 ├── requirements.txt
 └── README.md
