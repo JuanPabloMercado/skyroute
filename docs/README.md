@@ -39,6 +39,9 @@ skyroute/
 │
 ├── docs/
 │   └── documentacion_tecnica.pdf
+│   └── diccionario_de_datos.md
+│   └── README.md
+│
 │
 ├── diagrams/
 │   ├── flujo_general.png
